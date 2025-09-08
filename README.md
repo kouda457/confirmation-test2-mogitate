@@ -31,10 +31,11 @@ php artisan db:seed
 - mysql11.8.2
 
 ##　ER図
-<img src="mogitateER図.drawio.png" alt="ER図" width="60%">
+<img src="mogitateER.drawio.png" alt="ER図" width="60%">
 
 ##　URL
 - 開発環境：http://localhost/
 - phpMyAdmin:：http://localhost:8080/
 
 #confirmation-test2-mogitate
+
