@@ -1,0 +1,14 @@
+.two-column {
+    display: flex;
+}
+
+.add-product {
+    padding: 5px 5px;
+    width: 70px;
+    height: 30px;
+    border: none;
+    border-radius: 3px;
+    background: #ffa929;
+    color: #000;
+    cursor: pointer;
+}
